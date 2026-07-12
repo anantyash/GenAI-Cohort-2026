@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output directories
+dist/
+build/
+coverage/
+
+# Logs
+logs/
+*.log
+
+# dotenv environment variables
+.env
+.env.*
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+.idea/
+
+# Yarn v2
+.pnp.cjs
+.pnp.loader.mjs
+.pnp.js
+
+# Parcel
+.cache/
+
+# Misc
+*.tgz
